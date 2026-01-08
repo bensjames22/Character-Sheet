@@ -159,7 +159,7 @@
         .spell-table th { background: var(--stone-dark); color: white; text-transform: uppercase; }
 
         .controls { display: flex; gap: 5px; margin-top: 5px; }
-        .controls input { width: 45px; text-align: center; font-weight: bold; }
+        .controls input { width: 65px; text-align: center; font-weight: bold; }
         .controls button { flex: 1; cursor: pointer; padding: 5px; font-family: 'Cinzel'; font-weight: bold; border: 1px solid var(--stone-dark); }
         
         @keyframes fadeEffect { from {opacity: 0;} to {opacity: 1;} }
