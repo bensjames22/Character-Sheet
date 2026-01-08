@@ -341,10 +341,8 @@
             <button class="calc-btn" style="grid-column: span 2;" onclick="cIn('0')">0</button>
             <button class="calc-btn" onclick="cIn('.')">.</button>
         </div>
+    </div>   
 </div>
-
-<script>
-    // Your JavaScript follows...
 
 <script>
     const S = {
